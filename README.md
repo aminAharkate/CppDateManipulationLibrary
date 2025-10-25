@@ -15,8 +15,9 @@ This project is a C++ console application developed in Visual Studio 2022. It sh
 # Getting Started
 
 ## Quick Veiw To Code
-- clsString.h ==>
-- clsDate.h ==>
+- clsString.h ==> Simulation  String Libray in c++
+- clsDate.h ==> Simulation Date Time Libray in c#
+- Date Library.cpp ==> Main Function File
 
 
 
