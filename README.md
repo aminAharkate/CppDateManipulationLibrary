@@ -1,4 +1,4 @@
-# C++ Date Manipulation Console App
+# C++ Date Time Library Manipulation Console App
 
 This project is a C++ console application developed in Visual Studio 2022. It showcases a wide range of date-related operations using a custom `clsDate` class.
 
